@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<article>
+  <h1>{{ page.title }}</h1>
+  {% if page.hero %}
+    <img src="{{ page.hero | relative_url }}" alt="{{ page.title }}" style="max-width:100%; border-radius:12px;">
+  {% endif %}
+
+  {% if page.summary %}
+    <p><strong>{{ page.summary }}</strong></p>
+  {% endif %}
+
+  {{ content }}
+
+  {% if page.links %}
+    <h2>Links</h2>
+    <ul>
+      {% for item in page.links %}
+        <li><a href="{{ item.url }}">{{ item.label }}</a></li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+</article>
