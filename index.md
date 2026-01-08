@@ -5,8 +5,7 @@ title: Home
 
 # Siddarth Velnati
 
-Mechanical Engineering | Projects | Research
+Mechanical Engineering student.
 
-- [Projects](/projects)
-- [Resume](/resume)
-- [Contact](/contact)
+- [View Projects](/projects)
+
