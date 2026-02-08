@@ -2,6 +2,7 @@
 title: "ARC Purdue Robot Racing Car"
 summary: "Member of ARC Purdue’s robot racing team; contributed to the design, integration, and testing of an autonomous racing vehicle."
 tags: [Robotics, Autonomous Systems, Mechanical Design, Controls]
+hero: /assets/img/projects/arc-purdue/arc-1.jpg
 ---
 
 ## Overview
@@ -23,3 +24,15 @@ As a member of the ARC Purdue team, I contributed to the mechanical and systems-
 
 ## Team
 ARC Purdue Autonomous Racing Club
+
+
+## Photo Gallery
+
+<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap:12px;">
+  <img src="/assets/img/projects/arc-purdue/arc-1.jpeg" style="width:100%; border-radius:8px;">
+  <img src="/assets/img/projects/arc-purdue/arc-1.webp" style="width:100%; border-radius:8px;">
+  <img src="/assets/img/projects/arc-purdue/arc-2.jpg" style="width:100%; border-radius:8px;">
+  <img src="/assets/img/projects/arc-purdue/arc-3.jpg" style="width:100%; border-radius:8px;">
+  <img src="/assets/img/projects/arc-purdue/arc-4.webp" style="width:100%; border-radius:8px;">
+</div>
+
